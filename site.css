@@ -1,0 +1,22 @@
+body {
+    background-color: wheat;
+}
+h1{
+    font: 60px solid black;
+}
+
+h2 {
+font: 48px solid black;
+}
+div{
+    margin: 5% 5% 5% 5%;
+}
+p{
+    font: 24px solid black;
+}
+a{ 
+    font: 24px;
+}
+img {
+    width: 60%;
+}
